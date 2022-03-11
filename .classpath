@@ -18,7 +18,7 @@
 	<classpathentry kind="lib" path="C:/Users/monster/Desktop/TEST OTOMASYON SELENIUM/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/monster/Desktop/TEST OTOMASYON SELENIUM/selenium-api-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/Users/monster/Desktop/TEST OTOMASYON SELENIUM/selenium-chrome-driver-3.141.59.jar"/>
-	<classpathentry kind="lib" path="C:/Users/monster/Desktop/TEST OTOMASYON SELENIUM/selenium-edge-driver-3.141.59.jar" sourcepath=""/>
+	<classpathentry kind="lib" path="C:/Users/monster/Desktop/TEST OTOMASYON SELENIUM/selenium-edge-driver-3.141.59.jar" sourcepath="/Selenium Project 1"/>
 	<classpathentry kind="lib" path="C:/Users/monster/Desktop/TEST OTOMASYON SELENIUM/selenium-firefox-driver-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/Users/monster/Desktop/TEST OTOMASYON SELENIUM/selenium-ie-driver-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/Users/monster/Desktop/TEST OTOMASYON SELENIUM/selenium-java-3.141.59.jar"/>
